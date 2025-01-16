@@ -57,6 +57,7 @@
       "command": "nix run .#devnet-union -L",
       "label": "devnet-union",
       "problemMatcher": []
+      "union"
     }
   ]
 }
